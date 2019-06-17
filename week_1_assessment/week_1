@@ -1,0 +1,9 @@
+name = 'Julie'
+
+String = ' '
+Hashes = { }
+Array = [ ]
+
+Car1 = { wheels: 4, max_speed: 200, color: 'red' }
+Car2 = { wheels: 6, max_speed: 50, color: 'blue' }
+Cars = [ Car1, Car2 ]
